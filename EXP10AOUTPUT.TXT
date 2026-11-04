@@ -1,0 +1,6 @@
+REG    NAME       MARKS
+101    Rahul      85
+102    Priya      90
+103    Arun       78
+104    Sneha      95
+105    Kiran      80
