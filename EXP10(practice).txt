@@ -1,0 +1,6 @@
+Case 1: Student record found
+Enter Register Number to delete: 103
+Student record deleted successfully.
+Case 2: Student record not found
+Enter Register Number to delete: 105
+Student record not found.
