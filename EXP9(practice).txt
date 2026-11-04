@@ -1,0 +1,12 @@
+             Student Form
++--------------------------------------+
+|                                      |
+| Student Name: [ Rahul          ]     |
+|                                      |
+| [✓] Hostel required                  |
+|                                      |
+|             [ Submit ]               |
+|                                      |
+| Name: Rahul, Hostel required: Yes    |
+|                                      |
++--------------------------------------+
